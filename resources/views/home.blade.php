@@ -6,3 +6,4 @@
 
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem id porro dolorum fugit possimus mollitia debitis incidunt aut omnis suscipit assumenda voluptatibus temporibus expedita, sint corporis error, distinctio a modi!</p>
     </div>
+@endsection
